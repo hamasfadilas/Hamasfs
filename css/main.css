@@ -16,8 +16,19 @@ text-align: center;
     text-align: center;
 }
 .sub-judul{
-    
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: red;
+    text-align: center;
 }
-.isi{
-    
+.section2{
+    padding:100px 0px;
+    background: #ff0000;
+}
+.col-kiri{
+    background: #ccc;
+}
+.col-kanan{
+    background: #000;
 }
