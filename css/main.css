@@ -27,12 +27,13 @@ text-align: center;
     text-align: center;
 }
 .sub-judul{
-    font-family: calibri;
-    font-size: 30px;
+    font-family: century gothic;
+    font-size: 50px;
     font-weight: bold;
     color: black;
     text-align: center;
-    background-color: #ccc;
+    background-color: rgba(204,204,204,0.8);
+    padding: 40px;
 }
 .section2{
     padding:100px 0px;
@@ -88,4 +89,16 @@ text-align: center;
 .card-text{
     font-family: century gothic;
     font-size: 18px;
+}
+.section2-1{
+    background-color: #dcdcdc;
+}
+.judulsection2-1{
+    padding: 25px 25px;
+    text-align: center;
+    width: auto; 
+    font-size: 35px;
+}
+.section4{
+    background-color: #dcdcdc;
 }
